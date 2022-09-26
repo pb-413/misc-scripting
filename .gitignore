@@ -1,2 +1,7 @@
+
+# Ignore local cd commands, but keep the template
 cd*
 !cdtemplate.ps1
+
+# Windows folder settings file
+*.ini
