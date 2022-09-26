@@ -1,7 +1,8 @@
 
-# Ignore local cd commands, but keep the template
+# Ignore local cd commands, but keep the template and old .bat (has some notes)
 cd*
 !cdtemplate.ps1
+!cdgitbat.bat
 
 # Windows folder settings file
 *.ini
