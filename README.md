@@ -2,3 +2,4 @@
 
 Notable/Favorites: 
 - gitpushup
+- gitlog
