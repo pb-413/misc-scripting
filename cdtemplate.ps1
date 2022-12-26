@@ -1,2 +1,2 @@
 Set-Location "C:\your\location\here"
-ls
+Get-ChildItem
