@@ -1,1 +1,5 @@
-#misc-scripting
+# misc-scripting
+
+Notable/Favorites: 
+- gitpushup
+- gitlog
